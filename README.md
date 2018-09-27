@@ -1,2 +1,3 @@
 # projectweb
-code voor mijn NS site
+HTML & CSS code voor mijn NS website.
+-Thijs Bordewijk
