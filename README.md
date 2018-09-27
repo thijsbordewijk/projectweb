@@ -9,5 +9,5 @@ Er is een sorteersysteem die op dit moment alfabetisch sorteert en op de hoeveel
 
 FED Opdracht 2 - Huisstijl vormgeven met CSS
 Ik heb de NS-stijl onderzocht en heb vervolgens alle vlakken, knoppen maar ook indelingen van vlakken volledig rond deze stijl vormgegeven. NS geeft haar font niet weg aan het publiek maar ik heb een redelijk goed alternatief gevonden wat er redelijk op lijkt.
-Ik ben volledig van het <div> element weggebleven en heb selectoren gebruikt om de elementen te selecteren.
+Ik ben volledig van het div element weggebleven en heb selectoren gebruikt om de elementen te selecteren.
 
